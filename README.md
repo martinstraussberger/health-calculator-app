@@ -1,6 +1,8 @@
 
 # Health Calculator App
 ![](images/appSlides.png)
+
+Link to Repo: [Health Calculator App](https://github.com/martinstraussberger/health-calculator-app)
 ### This App allows the user to calculate several indexes:
 - BMI
 - BMR
